@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RKarkee
-- 👀 I’m interested in React.Js and Python developer.
+- 👀 I’m interested in React.Js and Python.
 - 🌱 I’m currently learning react.Js 
 - 💞️ I’m looking to collaborate on ...
 - 📫 Visit:linkedin.com/in/manish-karki-6a5135207
