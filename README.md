@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 Front-end Developer (React.JS)
 ------------------------------------
 
-- 🌱 I’m currently learning React.js
-- 💬 Ask me about anything
+- 🌱 I’m currently learning React.Js.
+- 💬 Ask me about anything...
 - 📫 How to reach me: [Linkedin](linkedin.com/in/manish-karki-6a5135207), [Instagram](https://www.instagram.com/karki2054)
 - 🤖 My [gists](https://gist.github.com/RKarkee)
 
