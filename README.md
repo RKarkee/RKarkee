@@ -14,7 +14,7 @@ Front-end Developer (React.JS)
 - 💬 Ask me about anything...
 - 📫 How to reach me: [Linkedin](linkedin.com/in/manish-karki-6a5135207), [Instagram](https://www.instagram.com/karki2054)
 - 🤖 My [gists](https://gist.github.com/RKarkee)
-- - 🤝  I'm open to collaborating on React.Js.
+- 🤝  I'm open to collaborating on React.Js.
 
 ### Skills
 
